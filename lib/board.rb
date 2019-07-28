@@ -1,3 +1,7 @@
 # Define the variable board below.
 
-board = [" ", " ", " ", " ", " ", " ", " ", " ", " "]
+def board = Array.new = [" ", " ", " ", " ", " ", " ", " ", " ", " "]
+
+puts "board"
+
+puts " #{board[0]}" | #
